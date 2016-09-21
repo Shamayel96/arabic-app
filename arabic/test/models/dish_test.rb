@@ -10,4 +10,4 @@ class DishTest < ActiveSupport::TestCase
     assert_equal dish.country.dish, "Country One"
     end
  end	
-end
+
